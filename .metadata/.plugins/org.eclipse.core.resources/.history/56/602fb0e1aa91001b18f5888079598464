@@ -1,0 +1,16 @@
+package lpoo20210330;
+
+public class MeuSistema {
+
+	public static void main(String[] args) {
+
+
+		Pagamento pag1 = new Pagamento(123456, "654321");
+		
+		
+		
+		
+		
+	}
+
+}
